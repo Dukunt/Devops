@@ -3,3 +3,4 @@ git commit -m < Message>
 git status
 git branch
 git pull
+git push
